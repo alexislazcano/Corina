@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Corina</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Corina</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>Corina\classes</path>
+				<dir>classes</dir>
+			</folderitem>
+			<folderitem>
+				<path>Corina\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
+	</projects>
+</workspace_user>

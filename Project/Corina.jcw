@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Corina</label>
+	</settings>
+	<users>
+		<user>
+			<path>Corina.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Corina\Corina.jcp</path>
+		</project>
+	</projects>
+</workspace>
